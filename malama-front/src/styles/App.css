@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input,
+textarea {
+  display: block;
+  margin: 5px auto;
+}
